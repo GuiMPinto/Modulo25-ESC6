@@ -6,3 +6,10 @@ src/map_set.js
 src/oo.js
 src/teste.js
 src/rest_spread.js
+src/casting.ts
+src/funcoes.ts
+src/interface.ts
+src/oo.ts
+src/teste.ts 
+src/tiposCostumizados.ts
+tsconfig.json
